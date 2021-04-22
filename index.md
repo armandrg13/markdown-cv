@@ -2,8 +2,8 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Armando 
+Grad Student , Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,8 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
-
+Studying Public Policy at University of Calirfornia Riverside
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
